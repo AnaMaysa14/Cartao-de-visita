@@ -5,8 +5,8 @@ body {
 .cartao {
 
   background: rgb(240, 206, 206);
-  width: 600px;
-  height: 250px;
+  width: 500px;
+  height: 200px;
 
 }
 
@@ -19,9 +19,4 @@ body {
 .nome {
   font-size: 15px;
   margin: 10px;
-}
-
-.foto {
-  float: left;
-  width: 150px;
 }
