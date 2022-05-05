@@ -1,0 +1,27 @@
+body {
+  width: 1024px;
+}
+
+.cartao {
+
+  background: rgb(240, 206, 206);
+  width: 600px;
+  height: 250px;
+
+}
+
+.informacoes{
+  float: right;
+  max-width: 400px;
+  margin-right: 10px;
+}
+
+.nome {
+  font-size: 15px;
+  margin: 10px;
+}
+
+.foto {
+  float: left;
+  width: 150px;
+}
